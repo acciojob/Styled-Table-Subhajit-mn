@@ -1,1 +1,24 @@
 /* your code */
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	border-radius: 15px;
+	overflow: hidden;
+	border-spacing: 15px;
+}
+thead{
+	background-color: darkblue;
+}
+th{
+	color: white;
+	padding: 10px;
+}
+td{
+	padding: 10px;
+}
+.white{
+	background-color: white;
+}
+.grey{
+	background-color: grey;
+}
